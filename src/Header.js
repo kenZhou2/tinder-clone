@@ -8,8 +8,7 @@ import ForumIcon from '@mui/icons-material/Forum';
 function Header() {
     return (
         <div className = 'header'>
-           
-            {/* <h1>his is test</h1> */}
+        
             <IconButton>
                 <PersonIcon fontSize= "Large" className='person_icon'/>
             </IconButton>
